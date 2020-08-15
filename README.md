@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-What I wish I looked like: 
+What I aspire to be (sorta): 
 
-![does_this_work](https://github.com/zefwang/zefwang/blob/master/random.gif)
+![memes](https://github.com/zefwang/zefwang/blob/master/random.gif)
 
 <!--
 **zefwang/zefwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
